@@ -29,22 +29,22 @@
 }
 
 .frist{
-    background-image: url("/img/269090171_1336674260116017_8991599769938829474_n.webp.jpg");
+    background-image: url("../img/269090171_1336674260116017_8991599769938829474_n.webp.jpg");
     background-size: cover;
 }
 
 .second{
-    background-image: url("/img/240447633_820582575488717_1860178840216680068_n.jpg");
+    background-image: url("../img/240447633_820582575488717_1860178840216680068_n.jpg");
     background-size: cover;
 }
 
 .third{
-    background-image: url("/img/244274897_1540386039651582_59846176435658394_n.webp.jpg");
+    background-image: url("../img/244274897_1540386039651582_59846176435658394_n.webp.jpg");
     background-size: cover;
 }
 
 .fourth{
-    background-image: url("/img/271016545_1049237822592260_6945941215791255327_n.webp.jpg");
+    background-image: url("../img/271016545_1049237822592260_6945941215791255327_n.webp.jpg");
     background-size: cover;
 }
 
